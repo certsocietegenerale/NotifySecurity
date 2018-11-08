@@ -1,0 +1,4 @@
+Add-in for notifying the Security team
+-----------------------
+- Click on the button to create a mail for the Security team.
+- If you "right click" on a mail and choose the "Notify the Security team" menu, or if one mail is already selected when you click on the button, its headers will be automatically added to the content of a new message, and the mail itself will be attached to it.";

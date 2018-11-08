@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NotifySecurity.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Security_Team_Mail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Security &lt;security@mail.com&gt;</Value>
+    </Setting>
+    <Setting Name="Security_Team_Mail_cc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Securitycc &lt;security.cc@mail.com&gt;</Value>
+    </Setting>
+    <Setting Name="Security_Team_Mail_bcc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Securitybcc &lt;security.bcc@mail.com&gt;</Value>
+    </Setting>
+    <Setting Name="SwordphishURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://swordphish.domain.com/</Value>
+    </Setting>
+    <Setting Name="SwordPhishHeader" Type="System.String" Scope="User">
+      <Value Profile="(Default)">X-Swordphish-Awareness-Campaign</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

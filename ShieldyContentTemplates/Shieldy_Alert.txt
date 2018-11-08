@@ -1,0 +1,20 @@
+Hello, I received the attached email and I think it is suspicious 
+I think this mail is malicious for the following reasons: <FREE COMMENT> 
+
+Please analyze and provide some feedback. 
+
+Possibly useful information: 
+-------------- 
+ - Name: <USER_FULLNAME> 
+ - STMP address: <USER_MAILADDRESS> 
+ - Title: <USER_JOBTITLE>
+ - Department: <USER_DEPARTMENT>
+ - Location: <USER_PHYSICALLOCATION> 
+ - Business phone: <USER_BUSINESSPHONE>
+ - Mobile phone: <USER_MOBILEPHONE>
+ - Windows username: <USER_WINDOWSUSERNAME> 
+ - Computername: <COMPUTER_HOSTNAME>
+
+Message headers: 
+-------------- 
+<MESSAGE_HEADERS>

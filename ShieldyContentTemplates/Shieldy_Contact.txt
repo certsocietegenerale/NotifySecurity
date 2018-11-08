@@ -1,0 +1,15 @@
+Hello, could you please help me on the following :
+
+> [Put here your question/request/comment]
+
+Possibly useful information:
+--------------
+ - Name: <USER_FULLNAME>
+ - STMP address: <USER_MAILADDRESS>
+ - Title: <USER_JOBTITLE>
+ - Department: <USER_DEPARTMENT>
+ - Location: <USER_PHYSICALLOCATION>
+ - Business phone: <USER_BUSINESSPHONE>
+ - Mobile phone: <USER_MOBILEPHONE>
+ - Windows username: <USER_WINDOWSUSERNAME>
+ - Computername: <COMPUTER_HOSTNAME>
